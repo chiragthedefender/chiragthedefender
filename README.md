@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chiragthedefender
 - 👀 I’m interested in evrything tech
-- 🌱 I’m currently learning python and MERN
-- 💞️ I’m looking to collaborate on meaningful projects that enhance developer experience
+- 🌱 I’m working on different projects across fullstack and machine learning.
+- 💞️ I’m looking to collaborate on meaningful projects.
 
 
 <!---
